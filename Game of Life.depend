@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1571995626 source:d:\skolarbete\umu\programmering i c\m8\game of life\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1572341970 source:d:\skolarbete\umu\programmering i c\m9\game of life\game_of_life.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"game_of_life.h"
+
+1572341938 source:d:\skolarbete\umu\programmering i c\m9\game of life\game_of_life_file_handler.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"game_of_life.h"
+	"game_of_life_file_handler.h"
+
+1572336765 source:d:\skolarbete\umu\programmering i c\m9\game of life\mp9.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"game_of_life.h"
+	"game_of_life_file_handler.h"
+
+1572341965 d:\skolarbete\umu\programmering i c\m9\game of life\game_of_life.h
+
+1572341934 d:\skolarbete\umu\programmering i c\m9\game of life\game_of_life_file_handler.h
+
